@@ -1,0 +1,26 @@
+.col-sm-3 {
+  border: 1px #ccc solid;
+  background-color: purple;
+  text-align: center;
+  color: white;
+}
+
+.col-sm-4 {
+  border: 1px #ccc solid;
+  background-color: yellow;
+  text-align: center;
+}
+
+.col-sm-8 {
+  border: 1px #ccc solid;
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+
+.col-sm-9 {
+  border: 1px #ccc solid;
+  background-color: green;
+  text-align: center;
+  color: white;
+}
